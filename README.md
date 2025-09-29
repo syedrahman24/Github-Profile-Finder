@@ -2,9 +2,8 @@
 
 A modern, responsive web application built with ReactJS that allows users to search for GitHub profiles and explore their public information, repositories, and statistics.
 
-![GitHub Profile Finder](https://img.shields.io/badge/React-18.2.0-blue.svg)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3.0-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![GitHub Profile Finder](https://github.com/user-attachments/assets/655a3aa3-1e5a-4732-ba71-d00cbcd6ea33)
+![GitHub Profile Finder](https://github.com/user-attachments/assets/a99af1d3-318e-42b1-9849-48dad6d529cd)
 
 ## ✨ Features
 
